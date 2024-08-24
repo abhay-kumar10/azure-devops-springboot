@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: azurecicd
+pool: test
 
 steps:
 - task: Maven@2
